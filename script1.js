@@ -10,5 +10,5 @@ function infoAboutMe(name, city, age){
     console.log("jelenleg ennyi idős vagyok: " +age)
 }
 
-myName(infoAboutMe("Milán", "Budapest", 22));
+infoAboutMe("Milán", "Budapest", 22);
 

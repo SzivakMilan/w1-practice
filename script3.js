@@ -1,9 +1,9 @@
 function myCarPrice(price, buy) {
     let result;
-    if (buy > price) {
-      result = 'Bad deal';
+    if (buy < price) {
+      result = "Bad deal";
     } else {
-      result = 'Good deal';
+      result = "Good deal";
     }
     return result;
   }

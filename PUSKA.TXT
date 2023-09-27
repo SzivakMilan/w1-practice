@@ -30,3 +30,19 @@ function getName(n1, n2) {
 getName(1, 2);
 
 FUNCTIONOKHOZ FONTOS PUSKA
+
+
+
+for (let counter = 0; counter <= 5; counter++) {
+  console.log(counter)
+}
+
+
+FOR CIKLUS!!!!!!! NAGYON FONTOS!!!!!!!!
+
+
+for (let index = 0; index < array.lenght; index++){
+  console.log(array[index])
+}
+
+TÖMB VÉGIG NÉZÉSE, MINDEN ELEM!!!!!!
